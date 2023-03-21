@@ -1,6 +1,6 @@
 # Feature Importance and Selection
-Python investigation into feature selection methods.  
+Python investigation into feature selection methods  
   
-Methods included: Spearman's Rank, Gini (Random Forest), permutation importance, drop column importance.  
-Method comparison    
-Automatic feature selection algorithm python implemenation  
+Open __Feature_Importance.ipynb__ for project notebook with pdf version in __Feature_Importance.pdf__. 
+  
+Data used in the project can be found in __card_transdata.csv__ (open-source).
